@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ajay Singha</h1>
-<h3 align="center">Frontend / Full Stack Developer</h3>
 
 <p align="center">
-  I build responsive and modern web applications using React, Tailwind CSS, Node.js and JavaScript.
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Full+Stack+Learner;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+Frontend / Full Stack Developer | React • Node.js • Tailwind CSS
+</p>
+
+<p align="center">
+I build responsive, modern and scalable web applications using React, Node.js and JavaScript.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my Full Stack Development skills
-- 💻 Focused on React.js & modern frontend development
-- ⚡ Love building clean and responsive UI
-- 🔥 Learning advanced backend & real-world projects
-- 📫 Reach me: ajayxingha33@gmail.com
+- 🌱 Currently improving my Full Stack Development skills  
+- 💻 Focused on React.js & modern frontend development  
+- ⚡ Passionate about building clean UI and real-world projects  
+- 🔥 Exploring backend development & deployment  
+- 📫 Email: ajayxingha33@gmail.com  
 
 ---
 
@@ -23,7 +30,7 @@
 - HTML5
 - CSS3
 - Tailwind CSS
-- JavaScript
+- JavaScript (ES6+)
 - React.js
 - Redux
 
@@ -32,23 +39,31 @@
 - Express.js
 
 ### Tools
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
+- Postman
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce App
-Modern shopping UI with cart and responsive design.
+### 🛒 E-Commerce UI (HTML & CSS)
+Responsive frontend e-commerce website focused on UI design and layout practice.
 
-
-
-### 🌐 Portfolio Website
-Personal portfolio built with React & Tailwind CSS.
+🧠 Skills used: HTML, CSS  
+📌 Type: Frontend Practice Project  
 
 ---
+
+### 🌐 Portfolio Website
+Personal portfolio website built using React and Tailwind CSS.
+
+🧠 Skills used: React, Tailwind CSS  
+📌 Type: Frontend Project  
+
+---
+
+
 
 ## 📊 GitHub Stats
 
@@ -60,29 +75,18 @@ Personal portfolio built with React & Tailwind CSS.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaysingha40&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysingha40&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/Ajaysingha40
-- LinkedIn: https://www.linkedin.com/in/ajay-singha-40a5b7202/
+- 🔗 GitHub: https://github.com/Ajaysingha40  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ajay-singha-40a5b7202/  
+- 📧 Email: ajayxingha33@gmail.com  
 
 ---
 
-⭐ Always learning and building new things.
-
-
-<!--
-**Ajaysingha40/Ajaysingha40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning, building and improving.
