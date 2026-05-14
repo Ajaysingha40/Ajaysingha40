@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Singha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Full+Stack+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;" />
 </p>
 
 <p align="center">
